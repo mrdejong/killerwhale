@@ -1,0 +1,19 @@
+{
+  "name": "dutchcaffeine/killerwhale",
+  "description": "A super modern and hip framework",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Killerwhale\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alexander de Jong",
+      "email": "alexander@dutchcaffeine.nl"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
